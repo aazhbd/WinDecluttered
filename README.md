@@ -11,6 +11,7 @@ Extracting the portable distribution ```WinDecluttered_v2.0.7z``` or ```WinDeclu
 
 ![WinDecluttered_remover](http://articulatedlogic.com/media/images/WinDecluttered2.original.png)
 
+![WinDecluttered_drivers](http://articulatedlogic.com/media/images/WinDecluttered3.original.png)
 
 
 ## License
