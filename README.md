@@ -7,3 +7,7 @@ It is an application to tweak windows settings and uninstall unnecessary applica
 
 Extracting the portable distribution ```WinDecluttered_v2.0.7z``` or ```WinDecluttered_v2.0_PortableSfx.exe``` and simply running ```WinDecluttered.exe``` from the portable distribution does not make any changes in Windows, but using many features would require administrative permission and would make changes to the registry. To use all the features run ```WinDecluttered.exe``` as administration from right click menu.
 
+
+## License
+
+Free non-commercial distribution and usage is allowed under CC BY-NC-ND 4.0. The software is provided without any warranty of any kind for non-commercial purposes, with the intention of improving the user experience and maintainability of the Windows.
