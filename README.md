@@ -1,6 +1,6 @@
 # WinDecluttered
 
-It is an application to tweak windows settings and uninstall unnecessary applications. Windows comes cluttered with many pre-installed marketing and advertising settings turned on and unnecessary applications. ```WinDecluttered``` helps to remove such applications, reorganizes your PC drivers and turn off marketing settings.
+It is a tool to optimize windows settings and uninstall unnecessary applications. Windows comes cluttered with many pre-installed marketing and advertising settings turned on and unnecessary applications. ```WinDecluttered``` helps to remove such applications, reorganizes your PC drivers and turn off marketing settings.
 
 
 ## Usage
