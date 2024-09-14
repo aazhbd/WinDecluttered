@@ -7,7 +7,7 @@ It is an application to tweak windows settings and uninstall unnecessary applica
 
 Simply opening the WinDecluttered window by executing ```WinDecluttered.exe``` from the portable folder doesn't make any changes to the system. To apply many tweaks it is necessary to have administrative permission.
 
-A portable copy of the application can be downloaded from [WinDecluttered_latest](https://github.com/aazhbd/WinDecluttered/releases/latest). To use all the features run ```WinDecluttered.exe``` as administrator from right click menu.
+A portable copy of the application can be downloaded from [WinDecluttered latest](https://github.com/aazhbd/WinDecluttered/releases/latest). To use all the features run ```WinDecluttered.exe``` as administrator from right click menu.
 
 ![WinDecluttered_windows_settings](http://articulatedlogic.com/media/images/WinDecluttered1_dF9pwYy.max-800x600.png)
 
