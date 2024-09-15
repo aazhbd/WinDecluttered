@@ -1,11 +1,13 @@
 # WinDecluttered
 
-It is an application to tweak windows settings and uninstall unnecessary applications. Windows comes cluttered with many pre-installed marketing and advertising settings turned on and unnecessary applications. ```WinDecluttered``` helps to remove such applications, reorganizes your PC drivers and turn off marketing settings.
+It is a tool to optimize windows settings and uninstall unnecessary applications. Windows comes cluttered with many pre-installed unnecessary applications, marketing and advertising settings turned on. ```WinDecluttered``` helps to remove such applications, reorganizes your PC drivers and turn off marketing settings.
 
 
-## Usage instruction
+## Usage
 
-Extracting the portable distribution [WinDecluttered_v2.0.7z](https://github.com/aazhbd/WinDecluttered/releases/download/v2.0/WinDecluttered_v2.0.7z) or [WinDecluttered_v2.0_PortableSfx.exe](https://github.com/aazhbd/WinDecluttered/releases/download/v2.0/WinDecluttered_v2.0_PortableSfx.exe) and simply running ```WinDecluttered.exe``` from the portable distribution does not make any changes in Windows, but using many features would require administrative permission and would make changes to the registry. To use all the features run ```WinDecluttered.exe``` as administrator from right click menu.
+Simply opening the WinDecluttered window by executing ```WinDecluttered.exe``` from the portable folder doesn't make any changes to the system. To apply many tweaks it is necessary to have administrative permission.
+
+A portable copy of the application can be downloaded from [WinDecluttered latest](https://github.com/aazhbd/WinDecluttered/releases/latest). To use all the features run ```WinDecluttered.exe``` as administrator from right click menu.
 
 ![WinDecluttered_windows_settings](http://articulatedlogic.com/media/images/WinDecluttered1_dF9pwYy.max-800x600.png)
 
