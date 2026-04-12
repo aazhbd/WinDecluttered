@@ -11,6 +11,13 @@ A portable copy of the application can be downloaded from [WinDecluttered latest
 
 It is also possible to download the app as a single file executable. Simply download [WinDecluttered 3.1-singleFile.exe](https://github.com/aazhbd/WinDecluttered/releases/download/WinDecluttered_v3.1/WinDecluttered_v3.1-singleFile.exe) and execute it from a writable directory to open the application, and as before run as administrator from right click menu to use all the features.
 
+
+[![1](https://assets.articulatedlogic.com/covers/WinDecluttered1.png)](https://assets.articulatedlogic.com/covers/WinDecluttered1.png) [![2](https://assets.articulatedlogic.com/covers/WinDecluttered2.png)](https://assets.articulatedlogic.com/covers/WinDecluttered2.png) [![3](https://assets.articulatedlogic.com/covers/WinDecluttered3.png)](https://assets.articulatedlogic.com/covers/WinDecluttered3.png) [![4](https://assets.articulatedlogic.com/covers/WinDecluttered4.png)](https://assets.articulatedlogic.com/covers/WinDecluttered4.png)
+
+
+
+
+
 ![WinDecluttered_windows_settings](https://assets.articulatedlogic.com/covers/WinDecluttered1.png)
 
 ![WinDecluttered_optimizations](https://assets.articulatedlogic.com/covers/WinDecluttered2.png)
